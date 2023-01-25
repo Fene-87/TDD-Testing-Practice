@@ -1,0 +1,23 @@
+{
+  "name": "tdd-testing-practice",
+  "version": "1.0.0",
+  "description": "A project where I get to practice my newly acquired skills on testing while following the AAA pattern",
+  "main": "testing.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fene-87/TDD-Testing-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fene-87/TDD-Testing-Practice/issues"
+  },
+  "homepage": "https://github.com/Fene-87/TDD-Testing-Practice#readme",
+  "devDependencies": {
+    "jest": "^29.4.0"
+  }
+}
